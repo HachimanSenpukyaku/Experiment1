@@ -1,0 +1,32 @@
+ #include <iostream>
+#include <conio.h>
+
+using namespace std;
+
+int main()
+{
+	
+
+	cout << "Ticket             TicketPrice           NumberOfTicketSold" << endl;
+	
+	cout << "Premium             2000                 3000" << endl;
+
+	cout << 2000 * 3000 << endl;
+
+	cout << "Sideline            1500                 3500" << endl;
+	
+	cout << 1500 * 3500 << endl;
+
+	cout << "Box                 1000                 4500" << endl;
+
+	cout << 1000 * 4500 << endl;
+
+	cout << "GenAd               600                  4600" << endl;
+
+	cout << 600 * 4600 << endl;
+
+	_getch();
+	return 0;
+
+
+}
